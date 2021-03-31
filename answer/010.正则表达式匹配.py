@@ -1,11 +1,11 @@
 from typing import List
 # Hard
+# 动态规划匹配，遇到*分情况讨论
 class Solution:
     def isMatch(self, s: str, p: str) -> bool:
         match = [[False] * (len(s) + 1) for _ in range(len(p) + 1)]
         match[0][0] = True
 
-        # 动态规划匹配
         slen, plen = len(s), len(p)
         for i in range(1, plen+1):
             for j in range(slen+1):
