@@ -31,7 +31,7 @@
 + 72.[编辑距离](https://leetcode-cn.com/problems/edit-distance) (Hard)
 + 75.[颜色分类](https://leetcode-cn.com/problems/sort-colors) (Medium)
 + 76.[最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring) (Hard)
-+ 78.[子集](https://leetcode-cn.com/problems/subsets)
++ 78.[子集](https://leetcode-cn.com/problems/subsets) (Medium)
 + 79.[单词搜索](https://leetcode-cn.com/problems/word-search)
 + 84.[柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram)
 + 85.[最大矩形](https://leetcode-cn.com/problems/maximal-rectangle)
