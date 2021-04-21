@@ -32,7 +32,7 @@ class Solution:
                 rm = get_max_path_sum(root_node.right)
                 root_max = root_node.val + max(0, lm) + max(0, rm)
                 lrm = root_node.val + max(0, lm, rm)
-                self.max_path_sum = max(self.max_path_sum, max(root_max, lrm))
+                self.max_path_sum = max(self.max_path_sum, root_max)
                 return lrm
 
         get_max_path_sum(root)
