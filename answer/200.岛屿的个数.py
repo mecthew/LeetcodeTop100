@@ -25,7 +25,31 @@ class UnionSet(object):
                 self.depth[xf] += 1
 
 class Solution:
+    # dfs方法
     def numIslands(self, grid: List[List[str]]) -> int:
+        m, n = len(grid), len(grid[0])
+        def dfs_search(r, c):
+            if r < 0 or r >= m or c < 0 or c >= n:
+                return
+            elif grid[r][c] in ['0', '2']:
+                return
+            else:
+                grid[r][c] = '2'
+                dfs_search(r, c+1)
+                dfs_search(r, c-1)
+                dfs_search(r+1, c)
+                dfs_search(r-1, c)
+
+        ret = 0
+        for i in range(m):
+            for j in range(n):
+                if grid[i][j] == '1':
+                    ret += 1
+                    dfs_search(i, j)
+        return ret
+
+    # 并查集方法
+    def numIslands1(self, grid: List[List[str]]) -> int:
         m, n = len(grid), len(grid[0])
         unionset = UnionSet(m*n)
         root_set = set()
