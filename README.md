@@ -62,10 +62,10 @@
 + 207.[课程表](https://leetcode-cn.com/problems/course-schedule) (Medium)
 + 208.[实现Trie(前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree) (Medium)
 + 215.[数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array) (Medium)
-+ 221.[最大正方形](https://leetcode-cn.com/problems/maximal-square
-+ 226.[翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree
-+ 234.[回文链表](https://leetcode-cn.com/problems/palindrome-linked-list)
-+ 236.[二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree)
++ 221.[最大正方形](https://leetcode-cn.com/problems/maximal-square) (Medium)
++ 226.[翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree) (Easy)
++ 234.[回文链表](https://leetcode-cn.com/problems/palindrome-linked-list) (Easy)
++ 236.[二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree) (Medium)
 + 238.[除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self)
 + 239.[滑动窗口的最大值](https://leetcode-cn.com/problems/sliding-window-maximum)
 + 240.[搜索二维矩阵Ⅱ](https://leetcode-cn.com/problems/search-a-2d-matrix-ii)
