@@ -67,7 +67,7 @@
 + 234.[回文链表](https://leetcode-cn.com/problems/palindrome-linked-list) (Easy)
 + 236.[二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree) (Medium)
 + 238.[除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self) (Medium)
-+ 239.[滑动窗口的最大值](https://leetcode-cn.com/problems/sliding-window-maximum)
++ 239.[滑动窗口的最大值](https://leetcode-cn.com/problems/sliding-window-maximum) (Hard)
 + 240.[搜索二维矩阵Ⅱ](https://leetcode-cn.com/problems/search-a-2d-matrix-ii)
 + 279.[完全平方数](https://leetcode-cn.com/problems/perfect-squares)
 + 283.[移动零](https://leetcode-cn.com/problems/move-zeroes)
