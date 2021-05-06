@@ -86,7 +86,7 @@
 + 437.[路径总和Ⅲ](https://leetcode-cn.com/problems/path-sum-iii)
 + 438.[找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string)
 + 448.[找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array)
-+ 461.[汉明距离](https://leetcode-cn.com/problems/hamming-distance)
++ 461.[汉明距离](https://leetcode-cn.com/problems/hamming-distance) (Easy)
 + 494.[目标和](https://leetcode-cn.com/problems/target-sum)
 + 538.[把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree)
 + 543.[二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree)
