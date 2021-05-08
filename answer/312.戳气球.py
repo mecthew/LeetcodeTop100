@@ -6,6 +6,7 @@ import sys
 
 class Solution:
     # i,j开区间，假设k是最后一个被戳破的气球，则状态转移公式dp[i][j] = dp[i][k] + nums[i]*nums[k]*nums[j] + dp[k][j]
+    #(这里重点是i,j不动，k作为最后一个)
     def maxCoins(self, nums: List[int]) -> int:
         nums = [1] + nums + [1]
         n = len(nums)
