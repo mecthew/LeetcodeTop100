@@ -75,7 +75,7 @@
 + 297.[二叉树的序列化和反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree) (Hard)
 + 300.[最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence) (Medium)
 + 309.[最佳买卖股票时期含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown) (Medium)
-+ 312.[戳气球](https://leetcode-cn.com/problems/burst-balloons)
++ 312.[戳气球](https://leetcode-cn.com/problems/burst-balloons) (Hard)
 + 322.[零钱兑换](https://leetcode-cn.com/problems/coin-change)
 + 337.[打家劫舍Ⅲ](https://leetcode-cn.com/problems/house-robber-iii)
 + 338.[比特位计数](https://leetcode-cn.com/problems/counting-bits)
