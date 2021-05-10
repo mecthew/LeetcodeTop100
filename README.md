@@ -78,7 +78,7 @@
 + 312.[戳气球](https://leetcode-cn.com/problems/burst-balloons) (Hard)
 + 322.[零钱兑换](https://leetcode-cn.com/problems/coin-change) (Medium)
 + 337.[打家劫舍Ⅲ](https://leetcode-cn.com/problems/house-robber-iii) (Medium)
-+ 338.[比特位计数](https://leetcode-cn.com/problems/counting-bits)
++ 338.[比特位计数](https://leetcode-cn.com/problems/counting-bits) (Medium)
 + 347.[前K个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements)
 + 394.[字符串解码](https://leetcode-cn.com/problems/decode-string)
 + 406.[根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height)
