@@ -80,7 +80,7 @@
 + 337.[打家劫舍Ⅲ](https://leetcode-cn.com/problems/house-robber-iii) (Medium)
 + 338.[比特位计数](https://leetcode-cn.com/problems/counting-bits) (Medium)
 + 347.[前K个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements) (Medium)
-+ 394.[字符串解码](https://leetcode-cn.com/problems/decode-string)
++ 394.[字符串解码](https://leetcode-cn.com/problems/decode-string) (Medium)
 + 406.[根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height)
 + 416.[分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum)
 + 437.[路径总和Ⅲ](https://leetcode-cn.com/problems/path-sum-iii)
