@@ -81,7 +81,7 @@
 + 338.[比特位计数](https://leetcode-cn.com/problems/counting-bits) (Medium)
 + 347.[前K个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements) (Medium)
 + 394.[字符串解码](https://leetcode-cn.com/problems/decode-string) (Medium)
-+ 406.[根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height)
++ 406.[根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height) (Medium)
 + 416.[分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum)
 + 437.[路径总和Ⅲ](https://leetcode-cn.com/problems/path-sum-iii)
 + 438.[找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string)
