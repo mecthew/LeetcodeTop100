@@ -91,7 +91,7 @@
 + 538.[把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree) (Medium)
 + 543.[二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree) (Easy)
 + 560.[和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k) (Medium)
-+ 572.[另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree)
++ 572.[另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree) (Easy)
 + 581.[最短无序连续子数组](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray)
 + 617.[合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees)
 + 647.[回文子串](https://leetcode-cn.com/problems/palindromic-substrings)
